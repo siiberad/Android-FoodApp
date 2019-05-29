@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/userMenu"
+        app:showAsAction="never"
+        android:title="Daftar User">
+    </item>
+    <item
+        android:id="@+id/foodMenu"
+        app:showAsAction="never"
+        android:title="Daftar Menu">
+    </item>
+
+</menu>
