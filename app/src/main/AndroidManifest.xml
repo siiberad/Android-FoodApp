@@ -49,8 +49,6 @@
         <activity
             android:name=".ActivityUser.DetailUserActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-
-        DetailUserActivity
     </application>
 
 </manifest>
